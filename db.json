@@ -1,0 +1,36 @@
+{
+  "idiomas_usuario": [
+      { id: 1, text: 'Inglês' },
+      { id: 2, text: 'Espanhol' },
+      { id: 3, text: 'Português' },
+  ],
+  "perfis_usuario": [
+      { id: 1, text: 'Usuário' },
+      { id: 2, text: 'Administrador' }
+  ],
+  "usuarios": [
+      { id: 1, nome: 'Paulo', sobrenome: 'Da Silva', login: 'pauloSilva', perfil: 1, idioma: 1 },
+      { id: 2, nome: 'Samuel', sobrenome: 'Ribas', login: 'samuel', perfil: 1, idioma: 2 },
+      { id: 3, nome: 'Thiago', sobrenome: 'Dantas', login: 'thiagodantas', perfil: 1, idioma: 2 },
+      { id: 4, nome: 'Emanuel', sobrenome: 'Lima', login: 'manuellima', perfil: 1, idioma: 2 },
+      { id: 5, nome: 'Taís', sobrenome: 'De Souza', login: 'taiss', perfil: 1, idioma: 2 },
+      { id: 6, nome: 'Daniela', sobrenome: 'Correa', login: 'danielac', perfil: 1, idioma: 1 },
+      { id: 7, nome: 'Leonardo', sobrenome: 'Castilho', login: 'leonardo14', perfil: 1, idioma: 2 },
+      { id: 8, nome: 'Fernando', sobrenome: 'Stein', login: 'fernando.stein', perfil: 2, idioma: 1 },
+      { id: 9, nome: 'Daniele', sobrenome: 'Duarte', login: 'daniduarte', perfil: 2, idioma: 1 },
+  ],
+  "maquinas": [
+      { id: 1, nome: 'Maq. 01', tipo: 1},
+      { id: 2, nome: 'Maq. 02', tipo: 2},
+      { id: 3, nome: 'Maq. 03', tipo: 1},
+      { id: 4, nome: 'Maq. 04', tipo: 2},
+      { id: 55, nome: 'Maq. 55', tipo: 1},
+      { id: 9, nome: 'Maq. 09', tipo: 2},
+      { id: 7, nome: 'Maq. 07', tipo: 1},
+      { id: 15, nome: 'Maq. 15', tipo: 2},
+      { id: 16, nome: 'Maq. 16', tipo: 1},
+      { id: 8, nome: 'Maq. 08', tipo: 1},
+      { id: 12, nome: 'Maq. MegaDrive', tipo: 2},
+      { id: 18, nome: 'Maq. PlayStation', tipo: 2}
+  ]
+}
