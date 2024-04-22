@@ -2,7 +2,7 @@
   "idiomas_usuario": [
       { "id": 1, "text": "Inglês" },
       { "id": 2, "text": "Espanhol" },
-      { "id": 3, "text": "Português" },
+      { "id": 3, "text": "Português" }
   ],
   "perfis_usuario": [
       { "id": 1, "text": "Usuário" },
@@ -17,7 +17,7 @@
       { "id": 6, "nome": "Daniela", "sobrenome": "Correa", "login": "danielac", "perfil": 1, "idioma": 1 },
       { "id": 7, "nome": "Leonardo", "sobrenome": "Castilho", "login": "leonardo14", "perfil": 1, "idioma": 2 },
       { "id": 8, "nome": "Fernando", "sobrenome": "Stein", "login": "fernando.stein", "perfil": 2, "idioma": 1 },
-      { "id": 9, "nome": "Daniele", "sobrenome": "Duarte", "login": "daniduarte", "perfil": 2, "idioma": 1 },
+      { "id": 9, "nome": "Daniele", "sobrenome": "Duarte", "login": "daniduarte", "perfil": 2, "idioma": 1 }
   ],
   "maquinas": [
       { "id": 1, "nome": "Maq. 01", "tipo": 1},
