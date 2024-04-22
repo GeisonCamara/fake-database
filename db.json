@@ -97,6 +97,16 @@
             "idioma": 1
         }
     ],
+    "tipos_maquina": [
+        {
+            "id": 1,
+            "text": "APPS"
+        },
+        {
+            "id": 2,
+            "text": "Manual",
+        }
+    ],
     "maquinas": [
         {
             "id": 1,
